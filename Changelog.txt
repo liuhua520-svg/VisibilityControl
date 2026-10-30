@@ -1,6 +1,6 @@
 Version 1.0.2 - 
 
-Added support for use in the Map Editor, Theme Editor, Asset Editor, and Scenario Editor.
+Added support for use in the Map Editor, Theme Editor, Asset Editor, and Scenario Editor
 
 
 Version 1.0.1 - 
